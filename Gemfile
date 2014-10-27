@@ -47,4 +47,6 @@ end
 group :development, :test do
   gem 'rspec-rails', '~> 3.1.0'
   gem 'factory_girl_rails', '~> 4.5.0'
-end 
+end
+
+gem 'devise', '~> 3.4.0'
