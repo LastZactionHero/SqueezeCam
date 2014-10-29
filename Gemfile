@@ -53,3 +53,5 @@ gem 'devise', '~> 3.4.0'
 gem 'twitter-bootstrap-rails', '~> 3.2.0'
 gem 'less-rails', '~> 2.5.0'
 gem 'therubyracer', '~> 0.12.1'
+gem 'carrierwave', '~> 0.10.0'
+
